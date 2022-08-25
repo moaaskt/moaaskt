@@ -27,13 +27,12 @@ Moacir Neto<div align="center">
 <br>
   <hr>
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCRt_TZCFHCfxjcCNI9y6-XA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "moacirneto59@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino="_blank" ></a>
+ 
+  
   <a href="https://www.linkedin.com/in/moacir-s-neto-266027232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  
-  <a href= "48991792406"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" destino="_blank" /> </a>
   <a href="https://www.facebook.com/moa.skt"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
-   <a href="https://open.spotify.com/user/12152244464?si=c5005fc4e9df4258"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+ 
     
 </div>
  
