@@ -19,7 +19,7 @@ Moacir Neto<div align="center">
   <hr>
   <br>
  
-- 🔭 Atualmente Trabalho com TI .
+- 🔭 A procura de um Estágio de DEV .
 - 🌱 Cursando técnico em Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
   
