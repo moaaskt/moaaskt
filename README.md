@@ -19,7 +19,7 @@ Moacir Neto<div align="center">
   <hr>
   <br>
  
-- 🌱 Tecnólogo em Desenvolvimento de Sistemas em formação
+- 🌱 Estudando Tecnólogo em Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
   
  
