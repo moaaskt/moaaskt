@@ -19,7 +19,6 @@ Moacir Neto<div align="center">
   <hr>
   <br>
  
-- 🔭 A procura de um Estágio como DEV .
 - 🌱 Cursando técnico em Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
   
