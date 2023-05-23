@@ -1,10 +1,10 @@
 ##  	:wave: Olá, seja bem vindo ao meu git
 <br>
-   
-   
-   
-   
   
+   
+   
+   
+ 
     
   <img height="180em" align="Right" title="Minhas Linguas mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaaskt&layout=compact&langs_count=7&theme=algolia"/> 
 
@@ -46,6 +46,7 @@
 ### 🤝🏻 &nbsp; Contato
 
 <p align="left">
+<a href="https://moaaskt.github.io/moa_dev/"><img src="https://img.shields.io/static/v1?label=MoaDev&message=meu+portifolio&color=2ea44f" alt="MoaDev - meu portifolio"></a>
 <a href="https://www.linkedin.com/in/moa-dev/"><img src="https://img.shields.io/badge/-Moacir%20Neto%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:moacirneto59@gmail.com"><img src="https://img.shields.io/badge/-moacirneto59@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/moa.skt/"><img src="https://img.shields.io/badge/-@moa.skt-E4405F?style=flat&logo=Instagram&logoColor=black"/></a>
