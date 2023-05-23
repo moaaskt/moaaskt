@@ -47,7 +47,7 @@
 
 <p align="left">
 <a href="https://moaaskt.github.io/moa_dev/" target="_blank"><img src="https://img.shields.io/static/v1?label=MoaDev&message=meu+portifolio&color=2ea44f" alt="MoaDev - meu portifolio"></a>
-<a href="https://www.linkedin.com/in/moa-dev/"><img src="https://img.shields.io/badge/-Moacir%20Neto%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/moa-dev/" target="_blank"><img src="https://img.shields.io/badge/-Moacir%20Neto%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:moacirneto59@gmail.com"><img src="https://img.shields.io/badge/-moacirneto59@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/moa.skt/"><img src="https://img.shields.io/badge/-@moa.skt-E4405F?style=flat&logo=Instagram&logoColor=black"/></a>
 <a href="https://www.facebook.com/moa.skt"><img src="https://img.shields.io/badge/-@moa.skt-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
