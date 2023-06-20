@@ -4,9 +4,9 @@
    
    
    
- 
+  <img alt="Yotu" src="https://media.tenor.com/TEfNj1ZBgOYAAAAC/skateboard-horogime.gif" align="right"  width='340'/>
     
-  <img height="180em" align="Right" title="Minhas Linguas mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaaskt&layout=compact&langs_count=7&theme=algolia"/> 
+
 
    
 <p>💡 &nbsp; Estudante de Desenvolvimento de Sistemas no SENAI</p>
@@ -37,10 +37,13 @@
  
  
 ### ⚙️ &nbsp;GitHub Analytics 
- <img alt="Yotu" src="https://media.tenor.com/TEfNj1ZBgOYAAAAC/skateboard-horogime.gif" align="right"  width='340'/>
+
  <div>
+
+  <img height="180em" align="center" title="Minhas Linguas mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaaskt&layout=compact&langs_count=7&bg_color=DEG,2b2c30,3c363b&theme=onedark"/> 
 <a href="https://github.com/moaaskt">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moaaskt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=moaaskt&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&bg_color=DEG,2b2c30,3c363b"/>
 </div> 
   
   
