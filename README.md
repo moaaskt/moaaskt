@@ -11,7 +11,6 @@
    
 <p>💡 &nbsp; Estudante de Desenvolvimento de Sistemas no SENAI</p>
 <p>🎓 &nbsp;Estou sempre a procura de novas tecnlogias </p>
-<p>💼  &nbsp; Em busca da minha primeira oportunidade de estágio como desenvolvedor</p>
 <p>🛹  &nbsp; Nas minhas folgas estou sempre andando de skate, minha paixão
     <br>
   <br>
