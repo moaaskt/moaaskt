@@ -9,7 +9,7 @@
 
 
    
-<p>💡 &nbsp; Estudante de Desenvolvimento de Sistemas no SENAI</p>
+<p>💡 &nbsp; Técnico em Desenvolvimento de Sistemas no SENAI</p>
 <p>🎓 &nbsp;Estou sempre a procura de novas tecnlogias </p>
 <p>🛹  &nbsp; Nas minhas folgas estou sempre andando de skate, minha paixão
     <br>
