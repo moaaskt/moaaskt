@@ -20,6 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/Typescript-7ebeb2?style=for-the-badge&logo=Typescript&logoColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
+![C#](https://img.shields.io/badge/csharp-%23ED6B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![postgresql](https://img.shields.io/badge/Postgresql-F7DF1E?style=for-the-badge&logo=postgresql&logoColor=black)&nbsp;
