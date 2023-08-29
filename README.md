@@ -3,10 +3,8 @@
   
    
    
-   
   <img alt="Yotu" src="https://media.tenor.com/TEfNj1ZBgOYAAAAC/skateboard-horogime.gif" align="right"  width='340'/>
     
-
 
    
 <p>💡 &nbsp; Técnico em Desenvolvimento de Sistemas</p>
@@ -33,21 +31,20 @@
 
 
  
- 
 
- 
  
  
 ### ⚙️ &nbsp;GitHub Analytics 
 
  <div>
+<a href="https://github.com/moaaskt/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=moaaskt" />
+</a>
+<a href="https://github.com/moaaskt/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moaaskt&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-  <img height="180em" align="center" title="Minhas Linguas mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaaskt&layout=compact&langs_count=7&bg_color=DEG,2b2c30,3c363b&theme=tokyonight"/> 
-<a href="https://github.com/moaaskt">
-  
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=moaaskt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=DEG,2b2c30,3c363b"/>
-</div> 
-  
+ 
   
 ### 🤝🏻 &nbsp; Contato
 
