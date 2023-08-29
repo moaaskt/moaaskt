@@ -1,8 +1,9 @@
 ##  	<p  align="center"><img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px  align="center" height=22px /> 😁 Hello devs, welcome to my github!!
-<br>
-  
-   
+## 🌐 Socials:
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/moa.skt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/moa.skt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moa-dev/) <a href="https://moaaskt.github.io/moa_dev/" target="_blank"><img src="https://img.shields.io/static/v1?label=MoaDev&message=Click&color=2ea44f" alt="MoaDev -"></a>
+   
+----
   <img alt="Yotu" src="https://media.tenor.com/TEfNj1ZBgOYAAAAC/skateboard-horogime.gif" align="right"  width='340'/>
  
 
@@ -56,9 +57,6 @@
 
 
 
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/moa.skt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/moa.skt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moa-dev/) <a href="https://moaaskt.github.io/moa_dev/" target="_blank"><img src="https://img.shields.io/static/v1?label=MoaDev&message=Click&color=2ea44f" alt="MoaDev -"></a>
 
 
   ---
