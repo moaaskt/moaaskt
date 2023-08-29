@@ -1,57 +1,69 @@
-##  	:wave: Olá, seja bem vindo ao meu git
+##  	<p  align="center"><img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px  align="center" height=22px /> 😁 Hello devs, welcome to my github!!
 <br>
   
    
-   
+
   <img alt="Yotu" src="https://media.tenor.com/TEfNj1ZBgOYAAAAC/skateboard-horogime.gif" align="right"  width='340'/>
-    
+ 
 
    
-<p>💡 &nbsp; Técnico em Desenvolvimento de Sistemas</p>
-<p>🎓 &nbsp;Estou sempre a procura de novas tecnlogias </p>
-<p>🛹  &nbsp; Nas minhas folgas estou sempre andando de skate, minha paixão
+<p>🎓 &nbsp; Technical Systems Development Specialist. - SENAI BR</p>
+<p> 💡 &nbsp; I'm always on the lookout for new technologies. </p>
+<p>🛹  &nbsp;In my free time, I'm always skateboarding – it's my passion.
     <br>
   <br>
  
- ### 🛠 &nbsp;Minhas habilidades
+# 💻 Tech Stack:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/Typescript-7ebeb2?style=for-the-badge&logo=Typescript&logoColor=black)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![csharp](https://img.shields.io/badge/csharp-%23ED6B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
-![postgresql](https://img.shields.io/badge/Postgresql-F7DF1E?style=for-the-badge&logo=postgresql&logoColor=black)&nbsp;
-![python](https://img.shields.io/badge/python-FF3E00?style=for-the-badge&logo=python&logoColor=black)&nbsp;
-![WordPress](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=black)&nbsp;   
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-
-
- 
-
- 
- 
-### ⚙️ &nbsp;GitHub Analytics 
-
- <div>
-<a href="https://github.com/moaaskt/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=moaaskt" />
-</a>
-<a href="https://github.com/moaaskt/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moaaskt&layout=compact&langs_count=8&card_width=320" />
-</a>
-
- 
+<div style="display: inline_block"><br>
+  <img align="center" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img align="center"  title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img align="center" title="Javascript" alt="javascript"  height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img align="center" title="java" alt="java" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" title="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img align="center" title="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img align="center" title="postgresql" alt="postgresql" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" title="mysql" alt="mysql" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" title="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="40" width="52" alt="mongodb logo"  />
+  <img align="center"  title="PHP" alt="PHP" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+    <img align="center" title="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img align="center" title="bootstrap"  alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  <img align="center" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
+  <img align="center" title="Wordpress"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="52" alt="wordpress logo"  />
+  <img align="center" title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
+  <img align="center" title="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
+  <img align="center" title="Ionic" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" width="52" alt="ionic logo"  />
   
-### 🤝🏻 &nbsp; Contato
+   
 
-<p align="left">
-<a href="https://moaaskt.github.io/moa_dev/" target="_blank"><img src="https://img.shields.io/static/v1?label=MoaDev&message=meu+portifolio&color=2ea44f" alt="MoaDev - meu portifolio"></a>
-<a href="https://www.linkedin.com/in/moa-dev/" target="_blank"><img src="https://img.shields.io/badge/-Moacir%20Neto%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:moacirneto59@gmail.com"><img src="https://img.shields.io/badge/-moacirneto59@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/moa.skt/"><img src="https://img.shields.io/badge/-@moa.skt-E4405F?style=flat&logo=Instagram&logoColor=black"/></a>
-<a href="https://www.facebook.com/moa.skt"><img src="https://img.shields.io/badge/-@moa.skt-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
+ </div>
+ <br>
+<div> 
+
  
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=moaaskt&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=moaaskt&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=moaaskt&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=moaaskt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+
+
+## 🌐 Socials:
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/moa.skt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/moa.skt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moa-dev/) <a href="https://moaaskt.github.io/moa_dev/" target="_blank"><img src="https://img.shields.io/static/v1?label=MoaDev&message=Click&color=2ea44f" alt="MoaDev -"></a>
+
+
+  ---
+ </div>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{moaaskt}/count.svg" /></p> 
+<br></div>
