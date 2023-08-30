@@ -5,7 +5,7 @@
    
 ----
   <img alt="Yotu" src="https://media.tenor.com/TEfNj1ZBgOYAAAAC/skateboard-horogime.gif" align="right"  width='340'/>
- 
+ <br>
 
    
 <p>🎓 &nbsp; Technical Systems Development Specialist. - SENAI BR</p>
