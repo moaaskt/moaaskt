@@ -3,17 +3,16 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/moa.skt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/moa.skt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moa-dev/) <a href="https://moaaskt.github.io/moa_dev/" target="_blank"><img src="https://img.shields.io/static/v1?label=MoaDev&message=Click&color=2ea44f" alt="MoaDev -"></a>
    
-----
+
   <img alt="Yotu" src="https://media.tenor.com/TEfNj1ZBgOYAAAAC/skateboard-horogime.gif" align="right"  width='340'/>
  <br>
 
    
-<p>🎓 &nbsp; Technical Systems Development Specialist. - SENAI BR</p>
-<p> 💡 &nbsp; I'm always on the lookout for new technologies. </p>
-<p>🛹  &nbsp;In my free time, I'm always skateboarding – it's my passion.
-    <br>
-  <br>
-
+💻 **Desenvolvedor** com experiência em:  
+- 🐍 Python (IA, automação, web scraping)  
+- 🤖 Machine Learning & NLP  
+- 🌐 Desenvolvimento Web (HTML, CSS, JavaScript)  
+- 📊 Ciência de Dados  
 
  
 # 💻 Tech Stack:
@@ -48,9 +47,11 @@
 
 
 # 📊 GitHub Stats:
+[![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moaaskt&theme=radical)](https://github.com/moaaskt)
+
 ![](https://github-readme-stats.vercel.app/api?username=moaaskt&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=moaaskt&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moaaskt&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=moaaskt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
