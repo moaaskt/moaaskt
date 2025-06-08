@@ -13,7 +13,6 @@
 - 🤖 Machine Learning & NLP  
 - 🌐 Desenvolvimento Web (HTML, CSS, JavaScript)  
 - 📊 Ciência de Dados  
-
  
 # 💻 Tech Stack:
 
@@ -55,12 +54,16 @@
 
 
 
+  ---
+ 
+<div align="center">
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12152244464&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
+</div>
 
   ---
- </div>
-<div align="center">
+ <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{moaaskt}/count.svg" /></p> 
 <br></div>
