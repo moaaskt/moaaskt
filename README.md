@@ -1,8 +1,6 @@
 ##  	<p  align="center"><img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px  align="center" height=22px /> 😁 Hello devs, welcome to my github!!
-## 🌐 Socials:
 
-<img src="https://img.shields.io/static/v1?label=MoaDev&message=Click&color=2ea44f" alt="MoaDev -"></a>
-   
+
 
   <img alt="Yotu" src="https://media.tenor.com/TEfNj1ZBgOYAAAAC/skateboard-horogime.gif" align="right"  width='340'/>
  <br>
