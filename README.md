@@ -66,7 +66,10 @@
 
 ## Stats and Contributions
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=moaaskt&layout=compact&langs_count=50&card_width=600&card_height=300&theme=dark" alt="Top Langs">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=moaaskt&layout=compact&langs_count=10&theme=dark&card_width=600" alt="Top Langs" />
+
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaaskt&langs_count=10&theme=dark" alt="Top Langs" width="600">
 
