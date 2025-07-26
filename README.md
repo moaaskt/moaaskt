@@ -72,11 +72,10 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moaaskt&theme=dark" alt="GitHub Stats" width="600">
 
-<img src="https://streak-stats.demolab.com?user=Ninja1375&theme=neon-dark" alt="moaaskt's GitHub Streak" width="600">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moaaskt&theme=dark" alt="Profile Details" width="600">
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ninja1375's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=moaaskt&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true" width="600"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="moaaskt's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=moaaskt&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true" width="600"/></a>
 
 <a href="https://ninja1375.github.io/Ninja1375/">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=moaaskt&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="600"></a>
