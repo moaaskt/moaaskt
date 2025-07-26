@@ -64,16 +64,33 @@
  
 
 
-# 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moaaskt&layout=compact&theme=radical)
+## Stats and Contributions
 
-![](https://github-readme-stats.vercel.app/api?username=moaaskt&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=moaaskt&layout=compact&langs_count=50&card_width=600&card_height=300&theme=dark" alt="Top Langs">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=moaaskt&theme=radical&hide_border=false)<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaaskt&langs_count=10&theme=dark" alt="Top Langs" width="600">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moaaskt&theme=dark" alt="GitHub Stats" width="600">
+
+<img src="https://streak-stats.demolab.com?user=Ninja1375&theme=neon-dark" alt="moaaskt's GitHub Streak" width="600">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moaaskt&theme=dark" alt="Profile Details" width="600">
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ninja1375's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=moaaskt&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true" width="600"/></a>
+
+<a href="https://ninja1375.github.io/Ninja1375/">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=moaaskt&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="600"></a>
+
+
+
+
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=moaaskt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=moaaskt&theme=dark_lover" alt="GitHub Trophy" style="width: 800px;">
+</a>
 
 
 
@@ -86,8 +103,4 @@
 
 </div>
 
-  ---
- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{moaaskt}/count.svg" /></p> 
-<br></div>
+  
