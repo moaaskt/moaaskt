@@ -1,4 +1,4 @@
-##  	<p  align="center"><img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px  align="center" height=22px /> 😁 Hello devs, welcome to my github!!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sejam+bem+vindos+ao+meu+github🤗;Me+sigam+e+acompanhem+meus+projetos)](https://git.io/typing-svg)
 
 
 
