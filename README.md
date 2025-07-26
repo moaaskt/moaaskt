@@ -1,3 +1,22 @@
+<a name="readme-top">
+  <a href="https://www.linkedin.com/in/moa-dev/">
+    <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="Acesse meu LinkedIn">
+  </a>
+  <a href="https://github.com/moaaskt">
+    <img src="https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555" alt="Acesse meu GitHub">
+  </a>
+  <a href="https://moaaskt.github.io/moa_dev/">
+    <img src="https://img.shields.io/badge/-Meu%20Site-black.svg?style=for-the-badge&logo=pinboard&colorB=555" alt="Acesse meu YouTube">
+  </a>
+  <a href="https://github.com/moaaskt/moaaskt">
+    <img src="https://komarev.com/ghpvc/?username=moaaskt&style=for-the-badge&color=cc0000" alt="Contador de visitantes">
+  </a>
+  
+  </a>
+  
+<hr>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sejam+bem+vindos+ao+meu+github🤗;Me+sigam+e+acompanhem+meus+projetos)](https://git.io/typing-svg)
 
 
