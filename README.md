@@ -28,7 +28,7 @@
 💻 **Desenvolvedor** com experiência em:  
 - 🐍 Python (IA, automação, web scraping)  
 - 🤖 Machine Learning & NLP  
-- 🌐 Desenvolvimento Web (HTML, CSS, JavaScript, TS)  
+- 🌐 Desenvolvimento Web (HTML, CSS, JavaScript, TS , PHP)  
 - 📊 Ciência de Dados  
  
 # 💻 Tech Stack:
