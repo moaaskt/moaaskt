@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/moa-dev/">
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="Acesse meu LinkedIn">
   </a>
-  <a href="https://github.com/moaaskt">
+  <a href="https://github.com/moacir1neto">
     <img src="https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555" alt="Acesse meu GitHub">
   </a>
   <a href="https://moaaskt.github.io/moa_dev/">
