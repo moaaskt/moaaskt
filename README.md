@@ -26,6 +26,7 @@
 
    
 💻 **Desenvolvedor** com experiência em:  
+- ✅ CodeIgniter 4, PHP, MySQL, Bootstrap, HTML, CSS e JavaScript.
 - 🐍 Python (IA, automação, web scraping)  
 - 🤖 Machine Learning & NLP  
 - 🌐 Desenvolvimento Web (HTML, CSS, JavaScript, TS , PHP)  
@@ -54,6 +55,7 @@
   <img align="center" title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo"  />
   <img align="center" title="Ionic" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" width="42" alt="ionic logo"  />
   <img align="center" title="Ionic" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php"  />
+  <img align="center" title="Ionic" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="php"  />
   
    
 
