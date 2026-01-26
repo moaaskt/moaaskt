@@ -90,15 +90,6 @@
 
 
 
-## 🏆 GitHub Trophies
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=moaaskt&theme=dark_lover" alt="GitHub Trophy" style="width: 800px;">
-</a>
-
-
-
-
   ---
  
 <div align="center">
