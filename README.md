@@ -41,16 +41,16 @@
 
 <div style="display: inline_block"><br>
 
-  <img align="center" title="Javascript" alt="javascript"  height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
-  <img align="center" title="java" alt="java" height="30" width="42" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" title="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img align="center" title="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img align="center" title="mysql" alt="mysql" height="30" width="42" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
-  <img align="center" title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo"  />
-  <img align="center" title="Ionic" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php"  />
-  <img align="center" title="Ionic" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker"  />
+  <img align="center" title="Javascript" alt="javascript"  height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" width="42" alt="typescript logo"  />
+  <img align="center" title="java" alt="java" height="42" width="42" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" title="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" width="42" alt="python logo"  />
+  <img align="center" title="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" width="42" alt="react logo"  />
+  <img align="center" title="mysql" alt="mysql" height="42" width="42" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" title="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="42" width="42" alt="c++" />        
+  <img align="center" title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="42" width="42" alt="arduino logo"  />
+  <img align="center" title="Ionic" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" width="42" alt="php"  />
+  <img align="center" title="Ionic" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" width="42" alt="docker"  />
   
    
 
