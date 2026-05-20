@@ -26,7 +26,7 @@
 
    
 💻 **Desenvolvedor** com experiência em:  
-- ✅ CodeIgniter 4, PHP, MySQL, Bootstrap, HTML, CSS e JavaScript.
+- ✅ CodeIgniter 4, Laravel, PHP, MySQL, Bootstrap, HTML, CSS e JavaScript.
 - 🐍 Python (IA, automação, web scraping)  
 - 🤖 Machine Learning & NLP  
 - 🌐 Desenvolvimento Web  
