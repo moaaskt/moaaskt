@@ -77,13 +77,7 @@ const moacir = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<!-- Stats e Top Langs: instância alternativa estável -->
-<img height="180em" src="https://github-stats.as93.net/api?username=moaaskt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-stats.as93.net/api/top-langs/?username=moaaskt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <div align="center">
 
@@ -99,12 +93,7 @@ const moacir = {
 
 </div>
 
-<div align="center">
 
-<!-- Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=moaaskt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/moaaskt)
-
-</div>
 
 ---
 
