@@ -79,25 +79,29 @@ const moacir = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moaaskt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaaskt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<!-- Stats e Top Langs: instância alternativa estável -->
+<img height="180em" src="https://github-stats.as93.net/api?username=moaaskt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-stats.as93.net/api/top-langs/?username=moaaskt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=moaaskt&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="GitHub Streak"/>
+<!-- Streak Stats: demolab é o serviço oficial, mais estável -->
+<img src="https://streak-stats.demolab.com?user=moaaskt&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=moaaskt&bg_color=1a1b27&color=70a5fd&line=38bdae&point=70a5fd&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 <div align="center">
 
+<!-- Trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=moaaskt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/moaaskt)
 
 </div>
