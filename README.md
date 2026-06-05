@@ -15,7 +15,6 @@
 
 Desenvolvedor full stack focado em construir **produtos reais que resolvem problemas reais**. Tenho background sólido em PHP/CodeIgniter e estou evoluindo no ecossistema moderno com **Node.js · React · TypeScript · NestJS**.
 
-Atualmente construindo o **[VetOS AI](https://github.com/moaaskt/vetos-ai)** — plataforma SaaS de gestão clínica veterinária com integração de IA e WhatsApp.
 
 ```ts
 const moacir = {
