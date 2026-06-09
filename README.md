@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor full stack focado em construir **produtos reais que resolvem problemas reais**. Tenho background sólido em PHP/CodeIgniter e estou evoluindo no ecossistema moderno com **Node.js · React · TypeScript · NestJS**.
+Desenvolvedor full stack focado em construir **produtos reais que resolvem problemas reais**. Tenho background sólido em PHP e estou evoluindo no ecossistema moderno com **Node.js · React · TypeScript · NestJS**.
 
 
 ```ts
