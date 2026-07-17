@@ -22,7 +22,6 @@ const moacir = {
   foco_atual:   "VetOS AI — SaaS para clínicas veterinárias",
   estudando:    ["NestJS", "arquitetura modular", "integrações com IA"],
   disponível:   true, // aberto a oportunidades full stack jr/pleno
-  café_por_dia: "muito ☕",
 };
 ```
 
