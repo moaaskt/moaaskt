@@ -32,6 +32,7 @@ const moacir = {
 
   stack_principal: [
     "TypeScript",
+    "PHP",
     "Node.js",
     "NestJS",
     "React",
