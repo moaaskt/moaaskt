@@ -19,36 +19,7 @@ Tenho experiência prática com PHP e desenvolvimento de sistemas web, enquanto 
 
 Gosto especialmente de trabalhar com **arquitetura de sistemas, APIs, integrações, automações, IA e produtos SaaS**.
 
-```ts
-const moacir = {
-  localização: "Palhoça, SC 🇧🇷",
 
-  foco_atual: [
-    "SaaS",
-    "Backend",
-    "IA aplicada",
-    "Arquitetura de sistemas"
-  ],
-
-  stack_principal: [
-    "TypeScript",
-    "PHP",
-    "Node.js",
-    "NestJS",
-    "React",
-    "Go",
-    "PostgreSQL"
-  ],
-
-  estudando: [
-    "arquitetura modular",
-    "sistemas distribuídos",
-    "integrações com IA"
-  ],
-
-  disponível: true, // aberto a oportunidades Full Stack Jr/Pleno
-};
-```
 
 ---
 
