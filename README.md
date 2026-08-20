@@ -67,7 +67,7 @@ Gosto especialmente de trabalhar com **arquitetura de sistemas, APIs, integraç�
 | [🐾 VetOS AI](https://github.com/moaaskt/vetos-ai)                                 | SaaS de gestão clínica veterinária com IA, autenticação multi-tenant e integração com WhatsApp   | React · NestJS · PostgreSQL · Prisma         |
 | [🐕 Guia do Cachorro](https://github.com/moaaskt/guiadocachorro)                   | Portal de saúde e lifestyle canino                                                               | Next.js · Tailwind · Supabase                |
 | [🤖 ChatJovemProgramador](https://github.com/moaaskt/ChatJovemProgramador-staging) | Chatbot com IA Generativa utilizando Google Gemini                                               | Python · Gemini API                          |
-| [🛍️ Loja Virtual](https://github.com/moaaskt/loja-virtual-codeigniter)            | E-commerce completo com painel administrativo                                                    | PHP · CodeIgniter 4 · MySQL                  |
+| [🛍️ G'store](https://github.com/moaaskt/loja-virtual-codeigniter)            | E-commerce completo com painel administrativo                                                    | PHP · CodeIgniter 4 · MySQL                  |
 | [🎬 Petflix](https://github.com/moaaskt/petflix)                                   | Plataforma de streaming de vídeos para pets                                                      | JavaScript · Firebase · YouTube API          |
 
 ---
