@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/moa-dev/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://moaaskt.github.io/moa_dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/moaaskt)
-[![Visitor Badge](https://komarev.com/ghpvc/?username=moaaskt\&style=for-the-badge\&color=0c9e7b\&label=VISITAS)](https://github.com/moaaskt)
+[![Visitor Badge](https://komarev.com/ghpvc/?username=moaaskt\&style=for-the-badge\&color=0c9e7b\&label=VISITAS)](https://moadev.com.br/)
 
 </div>
 
