@@ -51,9 +51,7 @@ Gosto especialmente de trabalhar com **arquitetura de sistemas, APIs, integra√ß√
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-211113?style=flat-square\&logo=firebase\&logoColor=orange)
+![PL](https://img.shields.io/badge/PL%2FSQL-DC382D?style=flat-square\&logo=oracle&logoColor=red)
 
 </div>
 
