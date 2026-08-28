@@ -70,56 +70,7 @@ Gosto especialmente de trabalhar com **arquitetura de sistemas, APIs, integraç�
 | [🛍️ G'store](https://github.com/moaaskt/loja-virtual-codeigniter)            | E-commerce completo com painel administrativo                                                    | PHP · CodeIgniter 4 · MySQL                  |
 | [🎬 Petflix](https://github.com/moaaskt/petflix)                                   | Plataforma de streaming de vídeos para pets                                                      | JavaScript · Firebase · YouTube API          |
 
----
 
-## 🐱 WhatsMiau / Sherlock Scraper
-
-Um dos projetos mais completos do meu portfólio: um **ecossistema SaaS de CRM B2B focado em prospecção, qualificação e automação de leads via WhatsApp**.
-
-O projeto combina scraping, processamento assíncrono, inteligência artificial, CRM e comunicação em tempo real em uma única arquitetura.
-
-### 🔍 Prospecção inteligente
-
-* Scraping automatizado de empresas no Google Maps
-* Enriquecimento através da Google Places API
-* Scraping de sites empresariais com Playwright
-* Normalização e validação de telefones
-* Importação de leads via CSV
-* Geração automática de dossiês utilizando Google Gemini
-* Score de maturidade digital
-* Identificação de gaps e oportunidades
-* Icebreakers personalizados
-* Pitches de venda contextualizados
-* Sugestões para contornar objeções
-
-### 💬 CRM & WhatsApp
-
-* CRM completo de leads
-* Kanban com drag-and-drop
-* Chat multicanal
-* Múltiplas instâncias WhatsApp
-* Agendamento de mensagens
-* Templates de respostas rápidas
-* Tags e histórico de contatos
-* Disparos em lote
-* Validação de números antes dos disparos
-
-### ⚡ Arquitetura
-
-* APIs em Go com Fiber
-* Jobs assíncronos utilizando Asynq
-* Redis como fila e mecanismo de Pub/Sub
-* PostgreSQL para persistência
-* SSE para eventos em tempo real
-* Docker Compose para orquestração dos serviços
-* React + Vite no frontend
-* TypeScript
-* Integração com Google Gemini
-* Playwright para automação e scraping
-
-> Esse projeto foi especialmente importante para aprofundar minha experiência com **backend em Go, processamento assíncrono, comunicação em tempo real, scraping, IA aplicada e arquitetura de sistemas distribuídos**.
-
-[🔗 Ver projeto completo →](https://github.com/moacir1neto/sherlock-scraper)
 
 ---
 
