@@ -15,7 +15,7 @@
 
 Desenvolvedor **Full Stack** focado em construir **produtos reais que resolvem problemas reais**.
 
-Tenho experiência prática com PHP e desenvolvimento de sistemas web, enquanto venho aprofundando minha atuação no ecossistema moderno com **Node.js · TypeScript · React · NestJS · Go**.
+Tenho experiência sólida com PHP e desenvolvimento de sistemas web, enquanto venho aprofundando minha atuação no ecossistema moderno com **Node.js · TypeScript · React · NestJS · Go**.
 
 Gosto especialmente de trabalhar com **arquitetura de sistemas, APIs, integrações, automações, IA e produtos SaaS**.
 
