@@ -22,7 +22,6 @@ Gosto especialmente de trabalhar com **arquitetura de sistemas, APIs, integraç�
 
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -57,7 +56,6 @@ Gosto especialmente de trabalhar com **arquitetura de sistemas, APIs, integraç�
 
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
