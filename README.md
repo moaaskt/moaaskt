@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moa-dev/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.moadev.com.br/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moaaskt)
 [![Visitor Badge](https://komarev.com/ghpvc/?username=moaaskt&style=for-the-badge&color=0c9e7b&label=VISITAS)](https://www.moadev.com.br/)
 
 </div>
@@ -72,7 +71,6 @@ Estou aberto a oportunidades e projetos envolvendo **desenvolvimento Full Stack,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moa-dev/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://www.moadev.com.br/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moaaskt)
 
 </div>
 
