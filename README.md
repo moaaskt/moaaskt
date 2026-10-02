@@ -13,10 +13,12 @@
 ## 👨‍💻 Sobre mim
 
 Desenvolvedor **Full Stack** focado em construir **produtos reais que resolvem problemas reais**.
-
-Tenho experiência sólida com PHP e desenvolvimento de sistemas web, enquanto venho aprofundando minha atuação no ecossistema moderno com **Node.js · TypeScript · React · NestJS · Go**.
-
-Gosto especialmente de trabalhar com **arquitetura de sistemas, APIs, integrações, automações, IA e produtos SaaS**.
+ 
+Tenho experiência sólida com PHP e desenvolvimento de sistemas web, enquanto venho aprofundando minha atuação no ecossistema moderno com **Node.js · TypeScript · React · NestJS · C++**.
+ 
+Também atuo com **IoT e sistemas embarcados**,projetos com ESP32, sensores, atuadores, RFID e integração com **Firebase e Flutter**, além de experiência profissional em campo com instalação e configuração de automação residencial.
+ 
+Gosto especialmente de trabalhar com **arquitetura de sistemas, APIs, integrações, automações, IoT, IA e produtos SaaS**.
 
 ---
 
@@ -49,6 +51,14 @@ Gosto especialmente de trabalhar com **arquitetura de sistemas, APIs, integraç�
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Nginx Proxy Manager](https://img.shields.io/badge/NPM-269539?style=flat-square&logo=nginxproxymanager&logoColor=white)
+
+### IoT & Automação
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
 
 </div>
 
