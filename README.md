@@ -12,9 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor **Full Stack** focado em construir **produtos reais que resolvem problemas reais**.
- 
-Tenho experiência sólida com PHP e desenvolvimento de sistemas web, enquanto venho aprofundando minha atuação no ecossistema moderno com **Node.js · TypeScript · React · NestJS · Python**.
+Tenho experiência sólida com PHP e desenvolvimento de sistemas web, enquanto venho aprofundando minha atuação no ecossistema  com **Node.js · TypeScript · React · NestJS · Python**.
  
 Também atuo com **IoT e sistemas embarcados**,projetos com ESP32, sensores, atuadores, RFID e integração com **Firebase e Flutter**, além de experiência profissional em campo com instalação e configuração de automação residencial.
  
