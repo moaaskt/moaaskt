@@ -12,11 +12,12 @@
 
 ## 👨‍💻 Sobre mim
 
-Tenho experiência sólida com PHP e desenvolvimento de sistemas web, enquanto venho aprofundando minha atuação no ecossistema  com **Node.js · TypeScript · React · NestJS · Python**.
- 
-Também atuo com **IoT e sistemas embarcados**,projetos com ESP32, sensores, atuadores, RFID e integração com **Firebase e Flutter**, além de experiência profissional em campo com instalação e configuração de automação residencial.
- 
-Gosto especialmente de trabalhar com **arquitetura de sistemas, APIs, integrações, automações, IoT, IA e produtos SaaS**.
+
+Sou desenvolvedor Full Stack com experiência em **PHP, CodeIgniter, Laravel,  APIs REST e sistemas web em produção**. Nos meus projetos, também trabalho com **React, TypeScript, Node.js, Go e Python**, explorando diferentes arquiteturas e integrações.
+
+Tenho experiência com **Docker, PostgreSQL, MySQL, Redis e processamento assíncrono**, além de projetos com inteligência artificial, IoT e automação residencial utilizando ESP32, Firebase e Flutter.
+
+Meu foco é desenvolver soluções completas, com código organizado, integrações eficientes e arquitetura que facilite a manutenção e a evolução dos sistemas.
 
 ---
 
