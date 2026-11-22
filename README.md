@@ -94,7 +94,9 @@ Tenho interesse especial em construir sistemas organizados, confiáveis e fácei
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=moaaskt&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com?user=moaaskt&theme=tokyonight&hide_border=true&locale=pt_BR&timezone=America%2FSao_Paulo" alt="GitHub Streak"/>
+
 
 </div>
 
